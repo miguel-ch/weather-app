@@ -6,5 +6,5 @@
   <b>Codepen: </b>https://codepen.io/miguel-ch/pen/KKBjRvo
 </p>
 <p>
-  <b>Page: </b>https://github.com/miguel-ch/weather-app
+  <b>Page: </b>https://miguel-ch.github.io/weather-app
 </p>
